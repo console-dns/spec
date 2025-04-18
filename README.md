@@ -1,0 +1,1 @@
+# ConsoleDNS SPEC
